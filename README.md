@@ -18,6 +18,15 @@
 - **无限制使用4o和o1**：支持 GPT-4，不受官网 GPT-4o（每3小时80次）、o1（每周50次）限制，**无限使用 GPT-4o 和 o1**。
 - **功能全面**：支持 AI 绘画、AI 知识库、AI 思维导图、AI 文件、AI PPT 等实用功能，更适合国内用户需求。
 
+## 国内可用的 ChatGPT 镜像网站推荐
+
+以下是精选的国内优质 ChatGPT 中文版镜像网站，提供高效的中文访问体验：
+- [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营近2年，支持 GPT-4、4o 以及 o1，支持 AI 绘画，扫码即可使用。
+- [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营近2年，支持 GPT-4、4o 以及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图。
+- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
+- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT-4、4o，简单便捷。
+- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT-4、4o 支持 MJ 绘画。
+
 ## ChatGPT 官网与中文版的区别
 | 对比项 | ChatGPT官网 | ChatGPT中文版（镜像网站）|
 |-------- |-------- |-------- |
@@ -28,16 +37,7 @@
 | **免费使用** | 免费额度有限，需购买付费套餐 | 部分镜像站提供免费使用 |
 | **注册流程** | 需海外手机号或邮箱注册 | 扫码或手机登录，更方便 |
 
-总结：如果您在国内想使用ChatGPT，推荐使用以下 **ChatGPT 中文版镜像网站**。
-
-## 国内可用的 ChatGPT 镜像网站推荐
-
-以下是精选的国内优质 ChatGPT 中文版镜像网站，提供高效的中文访问体验：
-- [https://www.yixiaai.com/](https://www.yixiaai.com/) - **ChatGPT中文版**，运营近2年，支持 GPT-4、4o 以及 o1，支持 AI 绘画，扫码即可使用。
-- [https://chat.lify.vip/](https://chat.lify.vip/) - **ChatGPT镜像网站**，运营近2年，支持 GPT-4、4o 以及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图。
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
-- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT-4、4o，简单便捷。
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT-4、4o 支持 MJ 绘画。
+总结：如果您在国内想使用ChatGPT，推荐使用上面的 **ChatGPT 中文版镜像网站**。
 
 ## 如何快速开始使用 ChatGPT 中文版？（详细教程）
 1. 选择上方的网址，如：[https://chat.lify.vip/](https://chat.lify.vip/)。
